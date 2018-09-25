@@ -1,0 +1,2 @@
+# DeckOfManyThings
+A random generator
